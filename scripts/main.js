@@ -1,9 +1,9 @@
 import Board from "./Board.js";
 import Engine from "./Engine.js";
 
-let HTMLWidth = 500;
-let HTMLHeight = 500;
-let border = 3;
+let HTMLWidth = 400;
+let HTMLHeight = 400;
+let border = 2;
 
 Engine.init();
 let board = new Board();

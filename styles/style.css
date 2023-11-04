@@ -25,6 +25,7 @@
     border-radius: 10%;
 }
 #canvas {
+    margin-top: 60px;
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
